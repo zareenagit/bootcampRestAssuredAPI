@@ -1,0 +1,10 @@
+apiUtilities\PropertiesFile.class
+apiTest\DDTests.class
+apiEndpoints\Routes.class
+apiPayload\User$Builder.class
+apiUtilities\DataProviders.class
+apiPayload\User$1.class
+apiEndpoints\UserEndPoints.class
+apiTest\UserTests.class
+apiPayload\User.class
+apiUtilities\XLUtility.class
